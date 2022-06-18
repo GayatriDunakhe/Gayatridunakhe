@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-Creative Mind | Greate Imagination | Out of Box Thinking
-🔭 I’m currently working on Crypto Portfolio
-🌱 I’m currently learning UX/UI Development
-💬 Ask me about Graphic Desing
-📫 How to reach me gayatridunakhe12@gmail.com
+Creative Mind | Greate Imagination | Out of Box Thinking </br>
+🔭 I’m currently working on Crypto Portfolio <br>
+🌱 I’m currently learning UX/UI Development <br>
+💬 Ask me about Graphic Desing <br>
+📫 How to reach me gayatridunakhe12@gmail.com <br>
 
 
 ## 🌐Socials
