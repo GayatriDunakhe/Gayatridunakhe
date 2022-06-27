@@ -22,6 +22,7 @@ Creative Mind | Greate Imagination | Out of Box Thinking </br>
 🌱 I’m currently learning UX/UI Development <br>
 💬 Ask me about Graphic Desing <br>
 📫 How to reach me gayatridunakhe12@gmail.com <br>
+🌐 <a href="https://gayatridunakhe.netlify.app/"> My Portfolio </a> <br>
 
 
 ## 🌐Socials
