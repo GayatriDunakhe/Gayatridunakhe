@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 # 💫About Me :
 Creative Mind | Greate Imagination | Out of Box Thinking </br>
-🔭 I’m currently working on Crypto Portfolio <br>
-🌱 I’m currently learning UX/UI Development <br>
-💬 Ask me about Graphic Desing <br>
+🔭 I’m currently working on Flutter <br>
+🌱 I’m currently learning UX/UI Development, Flutter <br>
+💬 Ask me about Graphic Desing and UX/UI <br>
 📫 How to reach me gayatridunakhe12@gmail.com <br>
 🔗 <a href="https://gayatridunakhe.netlify.app/"> My Portfolio </a> <br>
 
