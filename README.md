@@ -110,6 +110,33 @@
 
 
 ## My Work
+
+<table><tr><td valign="top" width="33%">
+
+### Ux Case Study's 
+<div align="center">
+<a href="" target="_blank">
+#### Gym Trainer Application
+<img src="https://cdn.dribbble.com/users/9950394/screenshots/19180384/media/c39982278dc4c4a82f547056304140fa.jpg?compress=1&resize=768x576&vertical=top" align="center" height="200" width="" />
+</a> 
+</div>  
+
+
+</td><td valign="top" width="33%">
+
+
+### Crypto Currency Portfolio  
+<div align="center">
+<a href="" target="_blank">
+#### B2B Website for Solar Product Selling
+<img src="https://cdn.dribbble.com/users/9950394/screenshots/19172532/media/66a2c403b5f38440f53c0a2af9fbab24.jpg?compress=1&resize=768x576&vertical=top" align="center" height="200" width="" />
+</a> 
+</div>  
+
+
+</td></tr></table>
+<br />
+
 <table><tr><td valign="top" width="33%">
 
 ### Package Delivery UI 
