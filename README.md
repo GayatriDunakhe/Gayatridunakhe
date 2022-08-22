@@ -39,7 +39,7 @@
 
 
 
-### Tech Stack  
+### Web  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
@@ -52,7 +52,7 @@
 
 
 
-### Others  
+### Other
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
@@ -109,7 +109,7 @@
 <br />
 
 
-## Ux Case Study's
+## Ux Case Studies
 
 <table><tr><td valign="top" width="33%">
 
