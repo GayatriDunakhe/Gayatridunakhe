@@ -16,7 +16,7 @@
 📫 How to reach me gayatridunakhe12@gmail.com  
   
 
-🌐 My Portfolio - [Gayatri Dunakhe](https://gayatridunakhe.netlify.app/)  
+🌐 My Portfolio - [Gayatri Dunakhe](https://dunakhe.me)  
   
 
 <br/>  
