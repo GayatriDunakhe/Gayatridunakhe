@@ -107,10 +107,6 @@
 </td></tr></table>
 <br />
 
-## Achivements
-[![@gayatridunkahe's Holopin board](https://holopin.me/gayatridunkahe)](https://holopin.io/@gayatridunkahe)
-<br/>
-
 ## Ux Case Studies
 
 <table><tr><td valign="top" width="33%">
@@ -171,3 +167,7 @@
 
 </td></tr></table>
 <br />
+
+## Achivements
+[![@gayatridunkahe's Holopin board](https://holopin.me/gayatridunkahe)](https://holopin.io/@gayatridunkahe)
+<br/>
