@@ -7,10 +7,10 @@
 🔭 I’m currently working on Flutter Applications  
   
 
-🌱 I’m currently learning UX/UI, React Js  
+🌱 I’m currently learning UX/UI, React Js, Motion Graphics  
   
 
-❓ Ask me about anything related to Graphic Desing, Frontend technology- HTML, CSS  
+❓ Ask me about anything related to Graphic Desing, Frontend technology- HTML, CSS, Figma  
   
 
 📫 How to reach me gayatridunakhe12@gmail.com  
