@@ -4,10 +4,10 @@
 ### <div align="center">I'm a Graphic Designer |  UX/UI Designer | Frontend Designer | Developer 💻</div>  
   
 
-🔭 I’m currently working on Flutter Applications  
+🔭 I’m currently working on WAE Project  
   
 
-🌱 I’m currently learning UX/UI, React Js, Motion Graphics  
+🌱 I’m currently learning UX/UI, C# 
   
 
 ❓ Ask me about anything related to Graphic Desing, Frontend technology- HTML, CSS, Figma  
