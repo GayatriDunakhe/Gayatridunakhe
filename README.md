@@ -7,7 +7,7 @@
 🔭 I’m currently working on WAE Project  
   
 
-🌱 I’m currently learning UX/UI, C# 
+🌱 I’m currently learning UX/UI, Python, JS
   
 
 ❓ Ask me about anything related to Graphic Desing, Frontend technology- HTML, CSS, Figma  
